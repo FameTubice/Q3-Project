@@ -68,9 +68,9 @@ function checkLetter() {
 function updateHangmanGraphic() {
     switch (remainingLives) {
         case 4: document.getElementById("head").style.display = "block"; break;
-        case 3: document.getElementById("arm-1").style.display = "block"; break;
-        case 2: document.getElementById("arm-2").style.display = "block"; break;
-        case 1: document.getElementById("torso").style.display = "block"; break;
+        case 3: document.getElementById("torso").style.display = "block"; break;
+        case 2: document.getElementById("arm-1").style.display = "block"; break;
+        case 1: document.getElementById("arm-2").style.display = "block"; break;
         case 0: 
             document.getElementById("foot-1").style.display = "block";
             document.getElementById("foot-2").style.display = "block";
