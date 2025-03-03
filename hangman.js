@@ -32,9 +32,9 @@ function updateWordDisplay() {
 // Reset hangman figure
 function resetHangmanGraphic() {
     document.getElementById("head").style.display = "none";
+    document.getElementById("torso").style.display = "none";
     document.getElementById("arm-1").style.display = "none";
     document.getElementById("arm-2").style.display = "none";
-    document.getElementById("torso").style.display = "none";
     document.getElementById("foot-1").style.display = "none";
     document.getElementById("foot-2").style.display = "none";
 }
