@@ -4,7 +4,9 @@ const words = [
     "wharf", "zebra", "crown", "globe", "fetch", "mirth", "proud", "snack", "tiger", "vapor",
     "wedge", "amber", "clove", "drums", "flint", "hinge", "joint", "knees", "lofty", "mould",
     "mount", "minus", "medal", "lapse", "infer", "heads", "goats", "urged", "vital", "waste",
-    "fluid", "yield", "zesty", "earth", "cramp", "dwell", "elbow", "cheap", "cargo", "bench"
+    "fluid", "yield", "zesty", "earth", "cramp", "frown", "elbow", "cheap", "cargo", "bench",
+    "cloud", "built", "swamp", "shine", "mouse", "house", "below", "peach", "coral", "guilt",
+    "laced", "labor", "macho", "packs", "rabid", "saber", "vague", "taber", "tears", "shame"
 ];
 
 let selectedWord = "";
